@@ -1,0 +1,3 @@
+C:/Users/trifc/CLionProjects/ProiectOOP/cmake-build-debug/CMakeFiles/ProiectOOP.dir
+C:/Users/trifc/CLionProjects/ProiectOOP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/trifc/CLionProjects/ProiectOOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
